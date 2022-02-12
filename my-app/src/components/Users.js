@@ -21,14 +21,14 @@ export const Users = ({users}) => {
 
     return(
         <div className="container">
-            <h2>Users</h2>
+            <h2>Userssssss</h2>
             <table className="table table-bordered">
                 <thead>
                 <tr>
                     <th>User Id</th>
                     <th>Firstname</th>
-                    <th>Lastname</th>
-                    <th>Email</th>
+                    <th>Lastname??</th>
+                    <th>Email!!</th>
                 </tr>
                 </thead>
                 <tbody>

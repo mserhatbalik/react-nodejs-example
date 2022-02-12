@@ -9,7 +9,7 @@ export const DisplayBoard = ({numberOfUsers, getAllUsers}) => {
             {numberOfUsers}
             </div>
             <div className="btn">
-                <button type="button" onClick={(e) => getAllUsers()} className="btn btn-warning">Get all Users</button>
+                <button type="button" onClick={(e) => getAllUsers()} className="btn btn-warning">Get all Users CMON</button>
             </div>
         </div>
     )
